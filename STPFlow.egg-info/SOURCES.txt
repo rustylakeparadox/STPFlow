@@ -1,0 +1,5 @@
+setup.py
+STPFlow.egg-info/PKG-INFO
+STPFlow.egg-info/SOURCES.txt
+STPFlow.egg-info/dependency_links.txt
+STPFlow.egg-info/top_level.txt
