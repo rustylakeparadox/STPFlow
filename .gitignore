@@ -1,1 +1,88 @@
-TPFlow.egg-info/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# large data / outputs
+data/
+datasets/
+results/
+outputs/
+*.h5ad
+*.h5
+*.csv
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# package build metadata
+*.egg-info/
+STPFlow.egg-info/
+
+# logs
+*.log
+
+# experiment outputs
+results/
+results_hparam/
+outputs/
+checkpoints/
+model_files/
+STPFlow/model_files/
+
+# external repos / benchmark data
+UCE-main/
+benchmark/
+
+# common large files
+*.h5ad
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# package build metadata
+*.egg-info/
+STPFlow.egg-info/
+
+# logs
+*.log
+
+# experiment outputs
+results/
+results_hparam/
+outputs/
+checkpoints/
+model_files/
+STPFlow/model_files/
+
+# external repos / benchmark data
+UCE-main/
+benchmark/
+
+# common large files
+*.h5ad
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
